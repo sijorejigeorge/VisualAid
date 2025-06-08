@@ -1,1 +1,3 @@
 Developed an android app to assist visually impaired users using YOLOv11, BLIP and ViLT. The application combines various functionality like object detection, caption generation and question answering to better assist the user. It also makes use of accessibility tools like TTS and SpeechRecognizer to provide users with a seamless experience while interacting with the application. 
+
+https://www.w4a.info/2025/awards/
