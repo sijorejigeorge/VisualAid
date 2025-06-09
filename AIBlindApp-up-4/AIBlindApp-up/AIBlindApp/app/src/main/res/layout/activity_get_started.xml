@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A7C7E7"
+    android:orientation="vertical"
+    tools:context=".GetStarted">
+
+    <ImageView
+        android:layout_width="120sp"
+        android:layout_height="120sp"
+        android:layout_gravity="left"
+        android:layout_marginTop="20sp"
+        android:layout_marginLeft="20sp"
+        android:src="@drawable/img" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to"
+        android:layout_marginLeft="20sp"
+        android:textSize="50sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Visual Aid"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="20sp"
+        android:textColor="#3570E3"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="565dp"
+        android:layout_marginTop="50sp"
+        android:background="@drawable/rounded_background"
+        android:gravity="center_horizontal"
+
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/mic"
+            android:layout_width="80sp"
+            android:layout_height="80sp"
+            android:layout_margin="40sp"
+            android:src="@drawable/baseline_mic_off_24" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5sp"
+            android:text="WAITING..."
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30sp"
+            android:layout_marginBottom="60sp"
+            android:textColor="#3570E3"
+            android:text="Let us help you get started !!!"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <!--        <TextView-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginBottom="40dp"-->
+        <!--            android:text="Tap “Start” button or Speak “Start” to begin "></TextView>-->
+
+        <ImageView
+            android:layout_width="303dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/img_7" />
+
+        <Button
+            android:id="@+id/start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20sp"
+            android:layout_marginTop="20sp"
+            android:layout_marginBottom="0dp"
+            android:backgroundTint="#3570E3"
+            android:drawableRight="@drawable/baseline_arrow_circle_right_24"
+            android:text="START"
+            android:textSize="22dp"
+
+            />
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
