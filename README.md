@@ -1,7 +1,8 @@
 # VisualAid: Enhancing Accessibility for Visually Impaired Individuals
 
-![Award Badge](https://www.w4a.info/2025/awards/)  
+
 Delegates Award Winner – W4A 2025 Awards
+Link: https://www.w4a.info/2025/awards/
 
 ## Overview
 
