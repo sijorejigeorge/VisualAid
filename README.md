@@ -8,7 +8,7 @@ Link: https://www.w4a.info/2025/awards/
 
 VisualAid is an AI-powered Android application designed to improve accessibility for visually impaired individuals by providing real-time assistance with object recognition, image captioning, OCR, and voice interaction. The app transforms a smartphone into a smart assistant that narrates the environment through descriptive audio, helping users interpret and navigate their surroundings independently.
 
-This project was presented at the [21st International Web for All Conference (W4A’25)](https://www.w4a.info/2025/) and received recognition for its impact and innovation.
+This project was presented at the [22nd International Web for All Conference (W4A’25)](https://www.w4a.info/2025/) and received recognition for its impact and innovation.
 
 ## Features
 
